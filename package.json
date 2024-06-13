@@ -1,0 +1,17 @@
+{
+  "name": "atam-test",
+  "version": "1.0.0",
+  "description": "Lo único que se ha recibido como \"prueba\" es este código:",
+  "main": "src/prepareRaiseCalculations.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Rafael López Dorado",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
